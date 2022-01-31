@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import request from "request";
 import cheerio from "cheerio";
 import chalk from 'chalk';
